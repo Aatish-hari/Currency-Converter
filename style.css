@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+   font-family: Courier, monospace;
+}
+body{
+   
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+    text-align: center;
+    background-color: #358600;
+}
+.container{
+    padding: 2rem;
+    background-color: yellowgreen;
+    border-radius: 20px;
+    min-height: 40vh;
+    min-width: 50vh;
+}
+form{
+    font-size: 1rem;
+    margin: 2rem;
+}
+
+form input, button ,select{
+
+    border-radius: 10px;
+    height: 100%;
+    width: 100%;
+}
+form input{
+    border-width: 3px;
+    font-size:20px ;
+    height: 2rem;
+}
+form select{
+    border-color: black;
+    font-size: 20px;
+    height: 3rem;
+}
+form button{
+    font-size: 20px;
+    height: 40px;
+    background-color: gold;
+}
+.from{
+    display: flex;
+   align-items: center;
+}
+.to{
+    display: flex;
+    align-items: center;
+}
+.drop-down{
+    margin:20px;
+}
+#info{
+    font-size: 30px;
+}
+.h3{
+    margin: 20px;
+}
