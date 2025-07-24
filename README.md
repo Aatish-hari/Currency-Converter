@@ -17,8 +17,9 @@ A simple, real-time currency converter built with **vanilla JavaScript**, **HTML
 
 ## 📸 Preview
 
-
-
+![image alt](https://github.com/Aatish-hari/Currency-Converter/blob/main/Screenshot%202025-07-24%20093146.png?raw=true)
+![image alt](https://github.com/Aatish-hari/Currency-Converter/blob/main/Screenshot%202025-07-24%20093227.png?raw=true)
+![image_alt](https://github.com/Aatish-hari/Currency-Converter/blob/main/Screenshot%202025-07-24%20093324.png?raw=true)
 ---
 
 ## 🛠️ Tech Stack
